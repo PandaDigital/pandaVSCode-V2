@@ -1,5 +1,5 @@
 # README
-## Panda Digital Dark II is a comfortable dark extension.
+## Panda Digital Dark II is another comfortable dark extension.
 
 
 

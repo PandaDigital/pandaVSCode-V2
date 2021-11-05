@@ -3,7 +3,7 @@
     "displayName": "Panda Dark II",
     "description": "A comfortable dark theme",
     "version": "0.1.0",
-    "publisher": "PandaDigital",
+    "publisher": "PandaDigitalLLC",
     "author": "Phil Reichner",
     "engines": {
         "vscode": "^1.40.0"
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/PandaDigital/pandaVSCode.git"
+        "url": "https://github.com/PandaDigital/pandaVSCode-V2.git"
     },
     "license": "MIT",
     "icon": "img/pandaDigital.png",

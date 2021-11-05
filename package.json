@@ -1,6 +1,6 @@
 {
     "name": "panda-dark",
-    "displayName": "Panda Dark",
+    "displayName": "Panda Dark II",
     "description": "A comfortable dark theme",
     "version": "0.1.0",
     "publisher": "PandaDigitalLLC",
@@ -13,7 +13,7 @@
     ],
     "contributes": {
         "themes": [{
-            "label": "Panda Digital Dark",
+            "label": "Panda Digital Dark II",
             "uiTheme": "vs-dark",
             "path": "./themes/Panda Digital Dark-color-theme.json"
         }]

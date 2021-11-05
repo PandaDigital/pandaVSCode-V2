@@ -3,7 +3,7 @@
     "displayName": "Panda Dark II",
     "description": "A comfortable dark theme",
     "version": "0.1.0",
-    "publisher": "PandaDigitalLLC",
+    "publisher": "PandaDigital",
     "author": "Phil Reichner",
     "engines": {
         "vscode": "^1.40.0"
